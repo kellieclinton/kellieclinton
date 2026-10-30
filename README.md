@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Kellie Clinton 👋
 
-<!--
-**kellieclinton/kellieclinton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔒 Former Cybersecurity Professional | 📊 Current Data Science Master's Candidate
 
-Here are some ideas to get you started:
+I bridge the gap between secure infrastructure and advanced data analytics. After spending 5 years securing systems and analyzing vulnerabilities in the cybersecurity domain, I returned to graduate school to specialize in Data Science. I excel at translating messy, complex datasets into production-ready statistical models and actionable business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Portfolio Projects
+
+### 🍎 [Apple Quality Analysis: Predictive Weight Modeling](https://github.com)
+* **Tech Stack:** R, RStudio, `glmnet`, `MASS`, `tidyverse`
+* Evaluated biological and structural features driving fruit development using advanced regularized machine learning techniques. 
+* Implemented cross-validated **LASSO, Ridge, and Elastic Net** regularization to eliminate multicollinearity and accurately isolate key variance drivers.
+
+### 📦 [SEKO International Delivery Optimization Case Study](https://github.com)
+* **Tech Stack:** Python, Jupyter Notebook, Pandas
+* Conducted algorithmic exploratory data analysis to systematically identify logistics bottlenecks and optimize international shipping delivery routes.
+
+### 🛒 [Grocery Relational Database Architecture](https://github.com)
+* **Tech Stack:** PostgreSQL, SQL, SQLAlchemy, Python
+* Architected an end-to-end relational database schema designed to seamlessly scale, capture, and track inventory logistics and real-time transaction processing.
+
+---
+
+## 🛠️ Technical Toolkit
+
+* **Languages:** Python, R, SQL, SAS
+* **Databases & Frameworks:** PostgreSQL, SQLAlchemy
+* **Tools & Platforms:** RStudio, Jupyter Notebook, Tableau, Git/GitHub
+* **Core Competencies:** Cybersecurity Analytics, Regularized Regression, Relational Database Design, Feature Selection, Statistical Modeling
+
+---
+
+## 📫 Let's Connect!
+* **LinkedIn:** https://www.linkedin.com/in/kellie-clinton-579584167/
+* **Email:** kellierclinton@gmail.com
