@@ -9,16 +9,16 @@ I bridge the gap between secure infrastructure and advanced data analytics. Afte
 ## 🚀 Featured Portfolio Projects
 
 ### 🍎 [Apple Quality Analysis: Predictive Weight Modeling](https://github.com)
-* **Tech Stack:** R, RStudio, `glmnet`, `MASS`, `tidyverse`
+* **Tech Stack:** `R` | `RStudio` | `glmnet` | `MASS` | `tidyverse`
 * Evaluated biological and structural features driving fruit development using advanced regularized machine learning techniques. 
 * Implemented cross-validated **LASSO, Ridge, and Elastic Net** regularization to eliminate multicollinearity and accurately isolate key variance drivers.
 
 ### 📦 [SEKO International Delivery Optimization Case Study](https://github.com)
-* **Tech Stack:** Python, Jupyter Notebook, Pandas
-* Conducted algorithmic exploratory data analysis to systematically identify logistics bottlenecks and optimize international shipping delivery routes.
+* **Tech Stack:** `Python` | `Jupyter Notebook` | `Pandas`
+* Conducted algorithmic exploratory data analysis (EDA) to systematically identify logistics bottlenecks and optimize international shipping delivery routes.
 
 ### 🛒 [Grocery Relational Database Architecture](https://github.com)
-* **Tech Stack:** PostgreSQL, SQL, SQLAlchemy, Python
+* **Tech Stack:** `PostgreSQL` | `SQL` | `SQLAlchemy` | `Python`
 * Architected an end-to-end relational database schema designed to seamlessly scale, capture, and track inventory logistics and real-time transaction processing.
 
 ---
@@ -26,12 +26,12 @@ I bridge the gap between secure infrastructure and advanced data analytics. Afte
 ## 🛠️ Technical Toolkit
 
 * **Languages:** Python, R, SQL, SAS
-* **Databases & Frameworks:** PostgreSQL, SQLAlchemy
-* **Tools & Platforms:** RStudio, Jupyter Notebook, Tableau, Git/GitHub
-* **Core Competencies:** Cybersecurity Analytics, Regularized Regression, Relational Database Design, Feature Selection, Statistical Modeling
+* **Databases & Frameworks:** PostgreSQL, SQLAlchemy, Power Automate
+* **Tools & Platforms:** RStudio, Jupyter Notebook, Tableau, Git/GitHub, Microsoft Planner
+* **Core Competencies:** Cybersecurity Analytics, Regularized Regression, Relational Database Design, Feature Selection, Statistical Modeling, Exploratory Data Analysis (EDA)
 
 ---
 
 ## 📫 Let's Connect!
-* **LinkedIn:** https://www.linkedin.com/in/kellie-clinton-579584167/
+* **LinkedIn:** [linkedin.com/in/kellie-clinton](https://www.linkedin.com/in/kellie-clinton-579584167/)
 * **Email:** kellierclinton@gmail.com
