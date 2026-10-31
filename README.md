@@ -8,7 +8,7 @@ I use advanced data analytics to manage a secure infrastructure. After spending 
 
 ## 🚀 Featured Portfolio Projects
 
-### 🍎 [Master's: Apple Quality Analysis: Predictive Weight Modeling](https://github.com)
+### 🍎 [Master's: Apple Quality Analysis: Predictive Weight Modeling]([https://github.com](https://github.com/kellieclinton/Apple-Quality-Analysis))
 * **Tech Stack:** `R` | `RStudio` | `glmnet` | `MASS` | `tidyverse`
 * Evaluated biological and structural features driving generic engineering of fruit using advanced regularized machine learning techniques. 
 * Implemented cross-validated **LASSO, Ridge, and Elastic Net** regularization to eliminate multicollinearity and accurately isolate key variance drivers for most sellable fruit characteristics.
