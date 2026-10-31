@@ -13,11 +13,11 @@ I use advanced data analytics to manage a secure infrastructure. After spending 
 * Evaluated biological and structural features driving generic engineering of fruit using advanced regularized machine learning techniques. 
 * Implemented cross-validated **LASSO, Ridge, and Elastic Net** regularization to eliminate multicollinearity and accurately isolate key variance drivers for most sellable fruit characteristics.
 
-### 📦 [SEKO International Delivery Optimization Case Study](https://github.com)
+### 📦 [SEKO International Delivery Optimization Case Study](https://github.com/kellieclinton/SEKO-Data-Case-Study-International-Delivery-Optimization)
 * **Tech Stack:** `Python` | `Jupyter Notebook` | `Pandas`
 * Conducted algorithmic exploratory data analysis (EDA) to systematically identify logistics bottlenecks and optimize international shipping delivery routes.
 
-### 🛒 [Master's: Grocery Relational Database Architecture](https://github.com)
+### 🛒 [Master's: Grocery Relational Database Architecture](https://github.com/kellieclinton/Grocery-Relational-Database-Project)
 * **Tech Stack:** `PostgreSQL` | `SQL` | `SQLAlchemy` | `Python`
 * Architected an end-to-end relational database schema designed to seamlessly scale and capture a store management system including customer management, inventory logistics, and real-time transaction processing.
 
