@@ -2,24 +2,24 @@
 
 ### 🔒 Former Cybersecurity Professional | 📊 Current Data Science Master's Candidate
 
-I bridge the gap between secure infrastructure and advanced data analytics. After spending 5 years securing systems and analyzing vulnerabilities in the cybersecurity domain, I returned to graduate school to specialize in Data Science. I excel at translating messy, complex datasets into production-ready statistical models and actionable business insights.
+I use advanced data analytics to manage a secure infrastructure. After spending 5 years securing systems and analyzing vulnerabilities in the cybersecurity domain, I returned to graduate school to specialize in Data Science. I excel at translating messy, complex datasets into production-ready statistical models and actionable business insights.
 
 ---
 
 ## 🚀 Featured Portfolio Projects
 
-### 🍎 [Apple Quality Analysis: Predictive Weight Modeling](https://github.com)
+### 🍎 [Master's: Apple Quality Analysis: Predictive Weight Modeling](https://github.com)
 * **Tech Stack:** `R` | `RStudio` | `glmnet` | `MASS` | `tidyverse`
-* Evaluated biological and structural features driving fruit development using advanced regularized machine learning techniques. 
-* Implemented cross-validated **LASSO, Ridge, and Elastic Net** regularization to eliminate multicollinearity and accurately isolate key variance drivers.
+* Evaluated biological and structural features driving generic engineering of fruit using advanced regularized machine learning techniques. 
+* Implemented cross-validated **LASSO, Ridge, and Elastic Net** regularization to eliminate multicollinearity and accurately isolate key variance drivers for most sellable fruit characteristics.
 
 ### 📦 [SEKO International Delivery Optimization Case Study](https://github.com)
 * **Tech Stack:** `Python` | `Jupyter Notebook` | `Pandas`
 * Conducted algorithmic exploratory data analysis (EDA) to systematically identify logistics bottlenecks and optimize international shipping delivery routes.
 
-### 🛒 [Grocery Relational Database Architecture](https://github.com)
+### 🛒 [Master's: Grocery Relational Database Architecture](https://github.com)
 * **Tech Stack:** `PostgreSQL` | `SQL` | `SQLAlchemy` | `Python`
-* Architected an end-to-end relational database schema designed to seamlessly scale, capture, and track inventory logistics and real-time transaction processing.
+* Architected an end-to-end relational database schema designed to seamlessly scale and capture a store management system including customer management, inventory logistics, and real-time transaction processing.
 
 ---
 
@@ -28,7 +28,7 @@ I bridge the gap between secure infrastructure and advanced data analytics. Afte
 * **Languages:** Python, R, SQL, SAS
 * **Databases & Frameworks:** PostgreSQL, SQLAlchemy, Power Automate
 * **Tools & Platforms:** RStudio, Jupyter Notebook, Tableau, Git/GitHub, Microsoft Planner
-* **Core Competencies:** Cybersecurity Analytics, Regularized Regression, Relational Database Design, Feature Selection, Statistical Modeling, Exploratory Data Analysis (EDA)
+* **Core Competencies:** Cybersecurity, Analytics, Regularized Regression, Relational Database Design, Feature Selection, Statistical Modeling, Exploratory Data Analysis (EDA)
 
 ---
 
